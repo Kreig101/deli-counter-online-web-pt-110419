@@ -12,3 +12,7 @@ end
 puts  display.join
 end
 end
+
+def take_a_number(names, number)
+
+end
